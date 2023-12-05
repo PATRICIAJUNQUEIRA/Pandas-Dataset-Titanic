@@ -15,7 +15,7 @@ O dataset do Titanic é amplamente utilizado em análise de dados e aprendizado 
 
 O projeto está estruturado da seguinte forma:
 
-1. **`data_analysis.ipynb`**: Jupyter Notebook contendo o código principal da análise.
+1. **`Titanic.ipynb`**: Jupyter Notebook contendo o código principal da análise.
 2. **`datasets/`**: Diretório que contém o conjunto de dados do Titanic (`train.csv`).
 3. **`output/`**: Diretório que armazena saídas e resultados da análise.
 
